@@ -3,6 +3,8 @@ DigitRecogniserDojo
 
 These are the base solutions, in a variety of languages, for the 'KNN Digits Recogniser' dojo.  Most include an example completed solution.
 
+Please upload your completed solutions into a folder with your name(s) and language, so we can all have a look!
+
 #### Other useful links
 
 [Machine Learning 101 Slides](http://prezi.com/l_ruueyhli9e/machine-learning-101/?utm_campaign=share&utm_medium=copy)  
