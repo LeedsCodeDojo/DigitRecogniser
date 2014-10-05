@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>418440CB-30E2-427D-BD8C-2D6B92E89639</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DigitRecogniser</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C9F32E13AEE2F58BF3E900102061AD831F9C83CB</key>
+		<string>https://github.com/LeedsCodeDojo/DigitRecogniser.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Ikhsan_Phil_ObjectiveC/DigitRecogniser/DigitRecogniser.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C9F32E13AEE2F58BF3E900102061AD831F9C83CB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/LeedsCodeDojo/DigitRecogniser.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9F32E13AEE2F58BF3E900102061AD831F9C83CB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9F32E13AEE2F58BF3E900102061AD831F9C83CB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DigitRecogniser</string>
+		</dict>
+	</array>
+</dict>
+</plist>
